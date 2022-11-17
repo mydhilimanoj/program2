@@ -1,0 +1,10 @@
+a=int(input("enter the number"))
+print("mydhu=",a)
+b=int(input("enter the number"))
+print("b=",b)
+c=a+b
+print("c=",c)
+sub=a-b
+print("sub=",sub)
+pro=a*b
+print("pro=",pro)
